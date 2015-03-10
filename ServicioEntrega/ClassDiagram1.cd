@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServicioEntrega.Modelo.OvernightPackage">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAEAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\OvernightPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServicioEntrega.Modelo.Package">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAIQRAICCEACAAiAgAAAAIAAABBAAAAQQAAAA=</HashCode>
+      <FileName>Modelo\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServicioEntrega.Modelo.TwoDayPackage">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\TwoDayPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

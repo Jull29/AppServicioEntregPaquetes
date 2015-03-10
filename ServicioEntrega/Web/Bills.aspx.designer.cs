@@ -11,7 +11,7 @@ namespace ServicioEntrega.Web
 {
 
 
-    public partial class WebForm1
+    public partial class Bills
     {
 
         /// <summary>
