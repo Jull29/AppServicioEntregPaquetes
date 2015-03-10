@@ -11,10 +11,10 @@ namespace ServicioEntrega.Modelo
         string tipoentrega;
 
        public string Tipoentrega
-        {
-  get { return tipoentrega; }
-  set { tipoentrega = value; }
-}
+         {
+             get { return tipoentrega; }
+             set { tipoentrega = value; }          
+         }
         public int Cuotafija
         {
             get { return costonocturno; }
@@ -45,7 +45,7 @@ namespace ServicioEntrega.Modelo
         {
             calculate = Peso * costonocturno;
             return calculate;
-
+            
            
         }
 

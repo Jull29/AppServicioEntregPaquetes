@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ServicioEntrega.Modelo.OvernightPackage">
+  <Class Name="ServicioEntrega.Modelo.OvernightPackage" Collapsed="true">
     <Position X="2.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAgAAAAAAAAEAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAgAAAAAAAAEAAIEAAACCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Modelo\OvernightPackage.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ServicioEntrega.Modelo.Package">
+  <Class Name="ServicioEntrega.Modelo.Package" Collapsed="true">
     <Position X="5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAABAEAAIQRAICCEACAAiAgAAAAIAAABBAAAAQQAAAA=</HashCode>
       <FileName>Modelo\Package.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ServicioEntrega.Modelo.TwoDayPackage">
+  <Class Name="ServicioEntrega.Modelo.TwoDayPackage" Collapsed="true">
     <Position X="8" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAQAAAAEAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AEAAAAQAAAAGAAAEAAAACAAAAIAAAAAAAAAAAABAAAA=</HashCode>
       <FileName>Modelo\TwoDayPackage.cs</FileName>
     </TypeIdentifier>
   </Class>
